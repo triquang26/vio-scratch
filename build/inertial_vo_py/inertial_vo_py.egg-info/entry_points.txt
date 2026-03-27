@@ -1,0 +1,3 @@
+[console_scripts]
+py_sub = inertial_vo_py.py_sub:main
+

@@ -1,0 +1,1 @@
+/home/ubuntu/vio-scratch/build/inertial_vo/ament_cmake_core/inertial_voConfig.cmake

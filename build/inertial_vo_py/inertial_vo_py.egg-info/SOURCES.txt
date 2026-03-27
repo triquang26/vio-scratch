@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+inertial_vo_py/__init__.py
+inertial_vo_py/py_sub.py
+inertial_vo_py.egg-info/PKG-INFO
+inertial_vo_py.egg-info/SOURCES.txt
+inertial_vo_py.egg-info/dependency_links.txt
+inertial_vo_py.egg-info/entry_points.txt
+inertial_vo_py.egg-info/requires.txt
+inertial_vo_py.egg-info/top_level.txt
+inertial_vo_py.egg-info/zip-safe
+resource/inertial_vo_py

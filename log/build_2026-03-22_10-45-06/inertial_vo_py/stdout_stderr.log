@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating inertial_vo_py.egg-info
+writing inertial_vo_py.egg-info/PKG-INFO
+writing dependency_links to inertial_vo_py.egg-info/dependency_links.txt
+writing entry points to inertial_vo_py.egg-info/entry_points.txt
+writing requirements to inertial_vo_py.egg-info/requires.txt
+writing top-level names to inertial_vo_py.egg-info/top_level.txt
+writing manifest file 'inertial_vo_py.egg-info/SOURCES.txt'
+reading manifest file 'inertial_vo_py.egg-info/SOURCES.txt'
+writing manifest file 'inertial_vo_py.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ubuntu/vio-scratch/install/inertial_vo_py/lib/python3.10/site-packages/inertial-vo-py.egg-link (link to .)
+Installing py_sub script to /home/ubuntu/vio-scratch/install/inertial_vo_py/lib/inertial_vo_py
+
+Installed /home/ubuntu/vio-scratch/build/inertial_vo_py
+running symlink_data
+creating /home/ubuntu/vio-scratch/install/inertial_vo_py/share/ament_index
+creating /home/ubuntu/vio-scratch/install/inertial_vo_py/share/ament_index/resource_index
+creating /home/ubuntu/vio-scratch/install/inertial_vo_py/share/ament_index/resource_index/packages
+symbolically linking /home/ubuntu/vio-scratch/build/inertial_vo_py/resource/inertial_vo_py -> /home/ubuntu/vio-scratch/install/inertial_vo_py/share/ament_index/resource_index/packages
+symbolically linking /home/ubuntu/vio-scratch/build/inertial_vo_py/package.xml -> /home/ubuntu/vio-scratch/install/inertial_vo_py/share/inertial_vo_py
