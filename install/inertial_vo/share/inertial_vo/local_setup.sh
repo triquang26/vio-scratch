@@ -1,1 +1,0 @@
-/home/ubuntu/vio-scratch/build/inertial_vo/ament_cmake_environment_hooks/local_setup.sh
